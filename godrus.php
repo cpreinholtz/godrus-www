@@ -5,7 +5,7 @@
 <html>
   <head>
     <title>Godrus</title> 
-    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    <?php include "head.php"?>
   </head>
  <body>
     <?php include "nav.php"?>

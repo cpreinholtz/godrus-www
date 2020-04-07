@@ -1,10 +1,8 @@
-
 <!DOCTYPE HTML>
-
-
 <html>
   <head>
-    <title>Godrus News</title> 
+    <title>Godrus About</title> 
+    <?php include "head.php"?>
   </head>
  <body>
     <?php include "nav.php"?>
