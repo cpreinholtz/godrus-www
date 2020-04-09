@@ -4,10 +4,11 @@
     <title>Godrus About</title> 
     <?php include "head.php"?>
   </head>
- <body>
+  <body>
     <?php include "nav.php"?>
-    
-    <p>Just a bunch of goofs doin' goof stuff.</p>
-  
- </body>
+    <h1>Going for big phycadelic sound.</h1>
+    <p>Jualian is our gutarist and vocalist.  He is also our sound engineer.  He is the reason we sound amazing even when we play bad music.</p>
+    <p>Eric is our synth monkey and bassist.  His creative drive knows no limits.</p>
+    <p>Clark bangs the drums and likes lights.</p>
+  </body>
 </html>
