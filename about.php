@@ -3,12 +3,53 @@
   <head>
     <title>Godrus About</title> 
     <?php include "head.php"?>
+    <style><?php include "meet_team.css"?></style>
   </head>
   <body>
     <?php include "nav.php"?>
-    <h1>Going for big phycadelic sound.</h1>
-    <p>Jualian is our gutarist and vocalist.  He is also our sound engineer.  He is the reason we sound amazing even when we play bad music.</p>
-    <p>Eric is our synth monkey and bassist.  His creative drive knows no limits.</p>
-    <p>Clark bangs the drums and likes lights.</p>
+    <h2>Meet The Team</h2>
+    <p>Going for big phycadelic sound.</p>
+    <br>
+
+    <div class="row">
+      <div class="column">
+        <div class="card">
+          <img src="img/guitar.jpg" alt="Julian" style="width:100%">
+          <div class="container">
+            <h2>Julian</h2>
+            <p class="title">Guitar and Vocals</p>
+            <p>Our sound engineer.  He is the reason we sound amazing even when we play bad music.</p>
+            <p>example@example.com</p>
+            <p><button class="button">Contact</button></p>
+          </div>
+        </div>
+      </div>
+
+      <div class="column">
+        <div class="card">
+          <img src="./img/synth.png" alt="Eric" style="width:100%">
+          <div class="container">
+            <h2>Eric</h2>
+            <p class="title">Synth Monkey and Bass</p>
+            <p>Creative drive knows no limits.</p>
+            <p>example@example.com</p>
+            <p><button class="button">Contact</button></p>
+          </div>
+        </div>
+      </div>
+      
+      <div class="column">
+        <div class="card">
+          <img src="img/drum.jpg" alt="Clark" style="width:100%">
+          <div class="container">
+            <h2>Clark</h2>
+            <p class="title">Drums and Backup Synth</p>
+            <p>Clark likes playing with lights.</p>
+            <p><button class="button">Contact</button></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    
   </body>
 </html>

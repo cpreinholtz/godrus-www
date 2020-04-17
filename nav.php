@@ -5,7 +5,7 @@
     
     <div class="topnav">
       <a href="godrus.php">Home</a>
-      <a href="news.php">News</a>
-      <a href="contact.php">Contact</a>
       <a href="about.php">About</a>
+      <a href="news.php">News</a>
+      <a href="links.php">Links</a>
     </div> 
