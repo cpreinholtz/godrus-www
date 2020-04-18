@@ -12,6 +12,7 @@
         </p>
     <h1>Upcoming Releases</h1>
       <p>Cookin' up some goodies... Godrus style.</p>
+    <img src="img/pot.jpg" style="width:100%">
   
   </body>
 </html>
