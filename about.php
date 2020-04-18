@@ -8,7 +8,7 @@
   <body>
     <?php include "nav.php"?>
     <h2>Meet The Team</h2>
-    <p>Going for big phycadelic sound.</p>
+    <p>Going for big psychedelic sound.</p>
     <br>
 
     <div class="row">
@@ -19,8 +19,6 @@
             <h2>Julian</h2>
             <p class="title">Guitar and Vocals</p>
             <p>Our sound engineer.  He is the reason we sound amazing even when we play bad music.</p>
-            <p>example@example.com</p>
-            <p><button class="button">Contact</button></p>
           </div>
         </div>
       </div>
@@ -32,8 +30,6 @@
             <h2>Eric</h2>
             <p class="title">Synth Monkey and Bass</p>
             <p>Creative drive knows no limits.</p>
-            <p>example@example.com</p>
-            <p><button class="button">Contact</button></p>
           </div>
         </div>
       </div>
@@ -45,7 +41,6 @@
             <h2>Clark</h2>
             <p class="title">Drums and Backup Synth</p>
             <p>Clark likes playing with lights.</p>
-            <p><button class="button">Contact</button></p>
           </div>
         </div>
       </div>
