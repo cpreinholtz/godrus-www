@@ -23,7 +23,9 @@
     <h1>Our Friends</h1>      
       <p>Just a bunch of goofs doin' goof stuff.</p>
       <p><a href="https://soundcloud.com/morningsynth"> Morning Synth</a></p>
-
+    <h1>Upcoming Releases</h1>
+      <p>Cookin' up some goodies... Godrus style.</p>
+      <img src="img/pot.jpg" style="width:100%">
       
 
     <script>
